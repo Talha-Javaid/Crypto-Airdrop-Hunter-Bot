@@ -1,5 +1,5 @@
 # Airdrop Hunter
-
+### Netlify URL: https://sparkly-capybara-12fa6a.netlify.app
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)
@@ -9,7 +9,7 @@
 - [Netlify](https://www.netlify.com/) (Cloud Service)
 
 ## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/). We recommend using the latest LTS (Long-Term-Support) version, and preferably installing NodeJS via [NVM](https://github.com/nvm-sh/nvm#intro).
+- Install [NodeJS](https://nodejs.org/en/).
 - Create an [Alchemy](https://www.alchemy.com/) account, you'll need to create an API key, and use the Goerli RPC URL for testing.
 - Create a [Netlify](https://www.netlify.com/) account.
 

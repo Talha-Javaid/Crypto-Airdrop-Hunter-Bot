@@ -2,6 +2,7 @@ const { schedule } = require("@netlify/functions");
 const { ethers } = require("ethers")
 require("dotenv").config()
 
+/// interface for ERC20 token USDC ///
 const IERC20 = require('@openzeppelin/contracts/build/contracts/ERC20.json')
 
 const handler = async function (event, context) {
